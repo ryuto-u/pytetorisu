@@ -1,4 +1,4 @@
 # Python-Tetris
-Tetris using Python and Pygame
+パイソンゲーム（テトリス）
 
 ![tetris](screenshot/1.png "Tetris")
